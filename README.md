@@ -17,6 +17,7 @@ I’m a Software Engineer and Full Stack Developer focused on building scalable,
 🤖 Passionate about AI and developing intelligent applications using LLMs and modern AI tools for real-world use cases.
 
 🚀 Key Projects:
+
 • E-Commerce Platform – Secure auth, protected routing, dynamic product management
 • Bookstore REST API – CRUD backend with JWT auth and middleware
 • AI Study Assistant – LLM-powered personalized learning system
