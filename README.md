@@ -6,37 +6,41 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer & Full Stack Developer focused on building scalable, secure, and high-performance systems. 💡  
+I’m a highly motivated Software Engineer and Full Stack Developer focused on building scalable, secure, and high-performance systems. 💡  
 
-💻 Strong in Data Structures & Algorithms (1100+ problems solved) with consistent problem-solving experience.  
+💻 Strong foundation in Data Structures & Algorithms with extensive hands-on experience solving 1100+ problems across competitive programming platforms, demonstrating strong analytical thinking and consistency.  
 
-⚙️ Experienced in React.js, Node.js, and REST APIs, building production-ready applications with clean architecture and optimized performance.  
+⚙️ Experienced in designing and developing production-grade applications using React.js, Node.js, and RESTful APIs, with a focus on clean architecture, modularity, and performance optimization.  
 
-🔐 Built secure backend systems with JWT-based authentication and scalable API design.  
+🔐 Built secure backend systems implementing authentication and authorization using JWT, middleware, and REST principles to ensure scalable and reliable services.  
 
-🤖 Exploring AI/LLM-based applications to solve real-world problems.  
+🤖 Passionate about AI and currently developing intelligent applications using LLMs and modern AI tools to solve real-world problems.  
 
----
+🚀 Key Projects:
+- *E-Commerce Platform*: Built scalable frontend with protected routing, authentication, and dynamic product management  
+- *Bookstore REST API*: Designed full CRUD backend with JWT authentication and middleware  
+- *AI Study Assistant*: Developed LLM-powered system delivering personalized learning experiences  
 
-## 🚀 Projects
+📈 Proven track record of consistency, problem-solving, and continuous learning with strong interest in system design and backend engineering.  
 
-- *E-Commerce App* – Secure auth, protected routes, dynamic product management  
-- *Bookstore API* – RESTful backend with JWT auth & full CRUD  
-- *AI Study Assistant* – LLM-based personalized learning system  
+🤝 Actively seeking opportunities to contribute to impactful engineering teams and build systems at scale.  
+
+⚡ Always learning, always building.
 
 ---
 
 ## 🛠️ Tech Stack
 
-*Languages:* C, C++, Java, Python, JavaScript  
-*Frontend:* React.js, HTML, CSS  
-*Backend:* Node.js, Express.js  
-*Database:* MongoDB, SQLite  
+- *Languages:* C, C++, Java, Python, JavaScript  
+- *Frontend:* HTML, CSS, React.js  
+- *Backend:* Node.js, Express.js  
+- *Database:* MongoDB, SQLite  
+- *Tools:* Git, GitHub, VS Code, Hugging Face  
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 
-📧 saikumarbulasala09@gmail.com  
-💼 https://linkedin.com/in/your-link  
-🌐 https://yourportfoliolink.com
+- 📧 Email: saikumarbulasala09@gmail.com  
+- 💼 LinkedIn: https://linkedin.com  
+- 🌐 Portfolio: https://your-portfolio-link.com
