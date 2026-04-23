@@ -5,26 +5,24 @@
 ---
 
 ## 👨‍💻 About Me
+I’m a highly motivated Software Engineer and Full Stack Developer focused on building scalable, secure, and high-performance systems. 💡  
 
-I’m a Software Engineer and Full Stack Developer focused on building scalable, secure, and high-performance systems. 💡
+💻 Strong foundation in Data Structures & Algorithms with extensive hands-on experience solving 1100+ problems across competitive programming platforms, demonstrating strong analytical thinking and consistency.  
 
-💻 Strong in Data Structures & Algorithms with 1100+ problems solved across coding platforms, demonstrating strong problem-solving and consistency.
+⚙️ Experienced in designing and developing production-grade applications using React.js, Node.js, and RESTful APIs, with a focus on clean architecture, modularity, and performance optimization.  
 
-⚙️ Hands-on experience building production-grade applications using React.js, Node.js, Express.js, and REST APIs with focus on clean architecture, modularity, and performance.
+🔐 Built secure backend systems implementing authentication and authorization using JWT, middleware, and REST principles to ensure scalable and reliable services.  
 
-🔐 Built secure backend systems with JWT authentication, authorization, middleware, and scalable API design.
-
-🤖 Passionate about AI and developing intelligent applications using LLMs and modern AI tools for real-world use cases.
+🤖 Passionate about AI and currently developing intelligent applications using LLMs and modern AI tools to solve real-world problems.  
 
 🚀 Key Projects:
+- *E-Commerce Platform*: Built scalable frontend with protected routing, authentication, and dynamic product management  
+- *Bookstore REST API*: Designed full CRUD backend with JWT authentication and middleware  
+- *AI Study Assistant*: Developed LLM-powered system delivering personalized learning experiences  
 
-• E-Commerce Platform – Secure auth, protected routing, dynamic product management
-• Bookstore REST API – CRUD backend with JWT auth and middleware
-• AI Study Assistant – LLM-powered personalized learning system
+📈 Proven track record of consistency, problem-solving, and continuous learning with strong interest in system design and backend engineering.  
 
-📈 Strong interest in backend engineering, system design, and scalable product development.
-
-🤝 Seeking opportunities to contribute to high-impact engineering teams.  
+🤝 Actively seeking opportunities to contribute to impactful engineering teams and build systems at scale.   
 
 ⚡ Constantly learning, consistently building!!.
 
