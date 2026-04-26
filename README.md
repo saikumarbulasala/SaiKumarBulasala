@@ -32,17 +32,21 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikumarbulasala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saikumarbulasala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60&v=2" height="180"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarbulasala&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarbulasala&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarbulasala&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarbulasala&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarbulasala&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarbulasala&theme=tokyo-night&hide_border=true&v=2"/>
 </p>
 
 ---
