@@ -42,15 +42,38 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 
 <p align="left">
   <a href="mailto:saikumarbulasala09@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <br/>
-
+  
   <a href="https://www.linkedin.com/in/bulasala-sai-kumar-18b83a360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <br/>
-  <a href="https://saikumarb09-showcase.lovable.app//" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
+  
+  <a href="https://www.instagram.com/saikumar09_?igsh=MXhmMnZ6azFycnB2bA==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/BULASALA_NVS_SAIKUMAR" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" height="45"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/saikumar09" target="_blank">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="45"/>
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/saikumar09" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height="45"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/saikumarbulasal1" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="45"/>
   </a>
 </p>
