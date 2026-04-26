@@ -1,4 +1,4 @@
-# Hi there 👋, I'm SaiKumar Bulasala!
+# Hi there 👋, I'm Sai Kumar Bulasala!
 
 🔗 [Resume](https://drive.google.com/file/d/1dcrHfFfX0kRTYb5yMrFs5_ebMvF6R0o9/view)
 
