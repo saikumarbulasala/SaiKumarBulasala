@@ -40,6 +40,17 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 
 ## 🔗 Connect with Me
 
-- 📧 Email: saikumarbulasala09@gmail.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 🌐 Portfolio: https://your-portfolio-link.com
+<p align="left">
+  <a href="mailto:saikumarbulasala09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <br/>
+
+  <a href="https://www.linkedin.com/in/bulasala-sai-kumar-18b83a360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <br/>
+  <a href="https://saikumarb09-showcase.lovable.app//" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
+  </a>
+</p>
