@@ -58,7 +58,7 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/BULASALA_NVS_SAIKUMAR" target="_blank">
+  <a href="https://leetcode.com/u/saikumarb_09/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" height="45"/>
   </a>
 
