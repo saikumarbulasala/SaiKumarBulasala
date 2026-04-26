@@ -27,8 +27,6 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 ⚡ Constantly learning, consistently building!!.
 
 ---
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
