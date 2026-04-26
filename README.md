@@ -4,14 +4,19 @@
 
 ---
 
-👨‍💻 About Me
-Full Stack Developer building scalable, secure systems with modern web technologies.
-Solved 1100+ DSA problems → strong problem-solving & consistency
-Built production-ready apps using React.js, Node.js, REST APIs
-Developed secure backends (JWT, middleware, scalable architecture)
-Exploring AI/LLMs for real-world applications
-🎯 Focused on system design, backend engineering, and scalable products
+## 👨‍💻 About Me
+
+Full Stack Developer focused on building *scalable, secure, and high-performance systems*, with a strong foundation in problem-solving and modern web technologies.
+
+- 🚀 Solved *1100+ DSA problems*, demonstrating consistency and strong analytical thinking  
+- 💻 Built *production-ready applications* using React.js, Node.js, and REST APIs  
+- 🔐 Developed *secure backend systems* with JWT authentication and modular architecture  
+- 🤖 Exploring *AI/LLMs* to create intelligent, real-world applications  
+- ⚙️ Focused on *system design, backend engineering, and scalable product development*  
+
 ⚡ Learn fast. Build faster.
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
