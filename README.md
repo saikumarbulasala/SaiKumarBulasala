@@ -46,8 +46,6 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarbulasala&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
 ---
 ## 🛠️ Tech Stack
 
