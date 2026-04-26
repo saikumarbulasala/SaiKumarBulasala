@@ -27,9 +27,6 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 ⚡ Constantly learning, consistently building!!.
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 <p align="center">
