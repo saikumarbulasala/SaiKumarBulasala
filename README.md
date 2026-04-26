@@ -30,11 +30,7 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 
 ## 🛠️ Tech Stack
 
-- *Languages:* C, C++, Java, Python, JavaScript  
-- *Frontend:* HTML, CSS, React.js  
-- *Backend:* Node.js, Express.js  
-- *Database:* MongoDB, SQLite  
-- *Tools:* Git, GitHub, VS Code, Hugging Face  
+https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,git,github,vscode&perline=6
 
 ---
 
