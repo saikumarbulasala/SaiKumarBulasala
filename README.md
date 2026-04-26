@@ -14,7 +14,7 @@ Full Stack Developer focused on building *scalable, secure, and high-performance
 - 🤖 Exploring *AI/LLMs* to create intelligent, real-world applications  
 - ⚙️ Focused on *system design, backend engineering, and scalable product development*  
 
-⚡ Learn fast. Build faster.
+⚡ Developing : Debugging : Scaling.
 
 ---
 ## 📊 GitHub Stats
