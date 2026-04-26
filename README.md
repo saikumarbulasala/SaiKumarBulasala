@@ -53,7 +53,7 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   
-  <a href="https://twitter.com/your_username" target="_blank">
+  <a href="https://twitter.com/BNVSSAIKUMAR" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 
