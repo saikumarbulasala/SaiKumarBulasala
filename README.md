@@ -30,7 +30,22 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 
 ## 🛠️ Tech Stack
 
-https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,git,github,vscode&perline=6
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</p>
 
 ---
 
