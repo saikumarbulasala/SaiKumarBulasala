@@ -48,7 +48,7 @@ I’m a highly motivated Software Engineer and Full Stack Developer focused on b
 
 ## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:saikumarbulasala09@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
