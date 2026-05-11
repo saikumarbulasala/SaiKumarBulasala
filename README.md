@@ -15,28 +15,6 @@ Full Stack Developer focused on building *scalable, secure, and high-performance
 - ⚙️ Focused on *system design, backend engineering, and scalable product development*  
 
 ⚡ Developing : Debugging : Scaling.
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saikumarbulasala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60&v=2" height="180"/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarbulasala&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarbulasala&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarbulasala&theme=tokyo-night&hide_border=true&v=2"/>
-</p>
-
 ---
 ## 🛠️ Tech Stack
 
