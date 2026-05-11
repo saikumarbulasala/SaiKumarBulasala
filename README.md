@@ -17,7 +17,6 @@ Full Stack Developer focused on building *scalable, secure, and high-performance
 ⚡ Developing : Debugging : Scaling.
 ---
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="55"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
