@@ -1,75 +1,61 @@
 # Hi there 👋, I'm Sai Kumar Bulasala!
 
 🔗 [Resume](https://drive.google.com/file/d/1dcrHfFfX0kRTYb5yMrFs5_ebMvF6R0o9/view)
+# 👋 I'm Sai Kumar Bulasala
+**Full Stack Engineer | Backend Specialist | Problem Solver**
+
+Building high-availability systems with a focus on modular architecture and performance optimization. 
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Engineering Impact
+*   **Algorithmic Excellence:** Solved **500+ DSA problems**; focused on optimizing time and space complexity ($O(n \log n)$ vs $O(n^2)$).
+*   **Scalable Architecture:** Engineered production-ready backends using **Node.js** and **RESTful APIs**, implementing **JWT-based authentication** and secure data flow.
+*   **System Integrity:** Focused on writing clean, maintainable code following **SOLID principles** and modular design patterns.
+*   **Emerging Tech:** Integrating **LLMs** and AI-driven logic into traditional web stacks to build "Intelligent Systems."
 
-Full Stack Developer focused on building *scalable, secure, and high-performance systems*, with a strong foundation in problem-solving and modern web technologies.
-
-- 🚀 Solved *500+ DSA problems*, demonstrating consistency and strong analytical thinking  
-- 💻 Built *production-ready applications* using React.js, Node.js, and REST APIs  
-- 🔐 Developed *secure backend systems* with JWT authentication and modular architecture  
-- 🤖 Exploring *AI/LLMs* to create intelligent, real-world applications  
-- ⚙️ Focused on *system design, backend engineering, and scalable product development*  
-
-⚡ Developing : Debugging : Scaling.
 ---
+
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
-  <img src="https://skillicons.dev/icons?i=html" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55"/>
-  <img src="https://skillicons.dev/icons?i=react" height="55"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+I use a modern engineering stack focused on performance, security, and scalability.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,mongodb,git,github&perline=6" />
+  </a>
 </p>
+
+---
+
+## 🏆 Competitive Benchmarks
+*   **LeetCode:** [Profile](https://leetcode.com/u/saikumarb_09/) (Consistent Top Tier Problem Solver)
+*   **GeeksforGeeks:** [Profile](https://www.geeksforgeeks.org/profile/saikumar09)
+*   **Codeforces:** [Profile](https://codeforces.com/profile/saikumar09)
+*   **HackerRank:** [Profile](https://www.hackerrank.com/profile/saikumarbulasal1)
 
 ---
 
 ## 🔗 Connect with Me
+Focusing on professional platforms where my engineering impact is most visible.
 
-<p align="center">
+<p align="left">
   <a href="mailto:saikumarbulasala09@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/bulasala-sai-kumar-18b83a360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/bulasala-sai-kumar-18b83a360">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://www.instagram.com/saikumar09_?igsh=MXhmMnZ6azFycnB2bA==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <a href="https://leetcode.com/u/saikumarb_09/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  
-  <a href="https://twitter.com/BNVSSAIKUMAR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  <a href="https://twitter.com/BNVSSAIKUMAR">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/saikumarb_09/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" height="45"/>
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/profile/saikumar09" target="_blank">
-    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="45"/>
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/saikumar09" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height="45"/>
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/saikumarbulasal1" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="45"/>
+  <a href="https://drive.google.com/file/d/1dcrHfFfX0kRTYb5yMrFs5_ebMvF6R0o9/view">
+    <img src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
+
+---
+
+### ⚡ Developing : Debugging : Scaling.
