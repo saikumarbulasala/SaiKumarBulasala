@@ -27,7 +27,7 @@ I use a modern engineering stack focused on performance, security, and scalabili
 ## 🏆 Competitive Benchmarks
 *   **LeetCode:** [Profile](https://leetcode.com/u/saikumarb_09/) (Consistent Top Tier Problem Solver)
 *   **GeeksforGeeks:** [Profile](https://www.geeksforgeeks.org/profile/saikumar09)
-*   **Codeforces:** [Profile](https://codeforces.com/profile/saikumar09)
+*   **Codeforces:** [Profile](https://codeforces.com/profile/saikumar09) (Consistent Top Tier Problem Solver)
 *   **HackerRank:** [Profile](https://www.hackerrank.com/profile/saikumarbulasal1)
 
 ---
