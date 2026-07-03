@@ -1,5 +1,5 @@
 # 👋 I'm Sai Kumar Bulasala
-**Full Stack Engineer | Backend Specialist | Problem Solver**
+**Full Stack Engineer | Frontend Specialist | Problem Solver**
 
 Building high-availability systems with a focus on modular architecture and performance optimization. 
 
