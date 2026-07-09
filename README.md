@@ -74,7 +74,7 @@ Building high-availability systems with a focus on modular architecture and perf
     </td>
     <td width="50%">
       <h4>🔹 EduReach — Agentic College Chatbot</h4>
-      <p>An LLM-powered agentic chatbot built to help college students get information and guidance. Add a line here on the agent architecture (e.g. RAG, tool-calling) and one measurable outcome (e.g. "answered X% of queries without human handoff").</p>
+      <p>An An AI-powered college chatbot built using React, Node.js, MongoDB, Gemini AI, and LangChain. Designed to assist students with college-related queries through intelligent conversational interactions and agentic workflows.</p>
       <a href="https://github.com/saikumarbulasala/EduReach-Agentic-College-Chatbot">📂 Source Code</a>
     </td>
   </tr>
