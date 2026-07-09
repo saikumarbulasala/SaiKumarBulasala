@@ -65,7 +65,6 @@ Building high-availability systems with a focus on modular architecture and perf
 ---
 
 ### 💼 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
