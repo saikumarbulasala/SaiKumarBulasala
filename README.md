@@ -80,8 +80,6 @@ Building high-availability systems with a focus on modular architecture and perf
   </tr>
 </table>
 
-> I filled in short descriptions based on the project names — swap in the real details (your specific role, tech stack per project, and a quantified result) so this reads as authentic rather than templated.
-
 ---
 
 ### 🎯 Currently
