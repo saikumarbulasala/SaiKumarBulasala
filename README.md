@@ -69,28 +69,19 @@ Building high-availability systems with a focus on modular architecture and perf
 <table>
   <tr>
     <td width="50%">
-      <h4>🔹 Project Name One</h4>
-      <p>One or two lines on the problem it solves, your role, and the measurable outcome (e.g. "cut API response time by 40%").</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source</a>
+      <h4>🔹 Sector9 E-Commerce</h4>
+      <p>A full-stack e-commerce platform covering product browsing, cart, and order flow. Add a line here on your specific role and one measurable outcome (e.g. "reduced page load time by X%", "handled Y concurrent users").</p>
+      <a href="https://github.com/saikumarbulasala/sector9-ecommerce">📂 Source Code</a>
     </td>
     <td width="50%">
-      <h4>🔹 Project Name Two</h4>
-      <p>Same format: problem → your role → quantified result. Recruiters skim this table first — lead with impact, not tech list.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source</a>
+      <h4>🔹 EduReach — Agentic College Chatbot</h4>
+      <p>An LLM-powered agentic chatbot built to help college students get information and guidance. Add a line here on the agent architecture (e.g. RAG, tool-calling) and one measurable outcome (e.g. "answered X% of queries without human handoff").</p>
+      <a href="https://github.com/saikumarbulasala/EduReach-Agentic-College-Chatbot">📂 Source Code</a>
     </td>
   </tr>
 </table>
 
-> Replace the two placeholders above with your strongest 2–4 projects. Each one should read: **what it does → your specific contribution → a number** (users served, latency reduced, test coverage, etc.).
+> I filled in short descriptions based on the project names — swap in the real details (your specific role, tech stack per project, and a quantified result) so this reads as authentic rather than templated.
 
 ---
 
