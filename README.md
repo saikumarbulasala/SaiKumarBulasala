@@ -1,41 +1,11 @@
-# 👋 I'm Sai Kumar Bulasala
-**Full Stack Engineer | Frontend Specialist | Problem Solver**
+<h1 align="center">Hi 👋, I'm Sai Kumar Bulasala</h1>
+<h3 align="center">Full Stack Engineer | Frontend Specialist | Problem Solver</h3>
 
-Building high-availability systems with a focus on modular architecture and performance optimization. 
-
----
-
-## 🚀 Engineering Impact
-*   **Algorithmic Excellence:** Solved **500+ DSA problems**; focused on optimizing time and space complexity ($O(n \log n)$ vs $O(n^2)$).
-*   **Scalable Architecture:** Engineered production-ready backends using **Node.js** and **RESTful APIs**, implementing **JWT-based authentication** and secure data flow.
-*   **System Integrity:** Focused on writing clean, maintainable code following **SOLID principles** and modular design patterns.
-*   **Emerging Tech:** Integrating **LLMs** and AI-driven logic into traditional web stacks to build "Intelligent Systems."
-
----
-
-## 🛠️ Tech Stack
-I use a modern engineering stack focused on performance, security, and scalability.
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,mongodb,git,github&perline=6" />
-  </a>
+<p align="center">
+Building high-availability systems with a focus on modular architecture and performance optimization.
 </p>
 
----
-
-## 🏆 Competitive Benchmarks
-*   **LeetCode:** [Profile](https://leetcode.com/u/saikumarb_09/) (Consistent Top Tier Problem Solver)
-*   **GeeksforGeeks:** [Profile](https://www.geeksforgeeks.org/profile/saikumar09)
-*   **Codeforces:** [Profile](https://codeforces.com/profile/saikumar09) (Consistent Top Tier Problem Solver)
-*   **HackerRank:** [Profile](https://www.hackerrank.com/profile/saikumarbulasal1)
-
----
-
-## 🔗 Connect with Me
-Focusing on professional platforms where my engineering impact is most visible.
-
-<p align="left">
+<p align="center">
   <a href="mailto:saikumarbulasala09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -55,4 +25,71 @@ Focusing on professional platforms where my engineering impact is most visible.
 
 ---
 
-### ⚡ Developing : Debugging : Scaling.
+### 🚀 Engineering Impact
+
+- **Algorithmic Excellence** — Solved **500+ DSA problems**, with a focus on optimizing time and space complexity (e.g. `O(n log n)` vs `O(n²)`).
+- **Scalable Architecture** — Engineered production-ready backends using **Node.js** and **RESTful APIs**, implementing **JWT-based authentication** and secure data flow.
+- **System Integrity** — Writes clean, maintainable code following **SOLID principles** and modular design patterns.
+- **Emerging Tech** — Integrating **LLMs** and AI-driven logic into traditional web stacks to build intelligent systems.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saikumarbulasala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarbulasala&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarbulasala&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+> ⚠️ Replace `saikumarbulasala` above with your exact GitHub **username** (not display name) for these cards to render correctly.
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/saikumarb_09/">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/saikumar09">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/saikumar09">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/saikumarbulasal1">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://leetcode-stats-two-blush.vercel.app/api?username=saikumarb_09" alt="LeetCode Stats" />
+</p>
+
+> This stats widget depends on a third-party API that can go down; if it doesn't render, a static badge (as above) is a safe fallback.
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saikumarbulasala/saikumarbulasala/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> This snake animation requires a one-time GitHub Actions setup in your profile repo — see setup note below.
+
+---
+
+<p align="center"><i>⚡ Developing · Debugging · Scaling ⚡</i></p>
