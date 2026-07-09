@@ -84,10 +84,10 @@ Building high-availability systems with a focus on modular architecture and perf
 
 ### 🎯 Currently
 
-- 🔭 Working on: *(name your current project)*
-- 🌱 Learning: *(a specific technology, e.g. system design, Kubernetes)*
-- 🤝 Open to: Full Stack / Frontend roles and collaboration on open-source projects
-- 💬 Ask me about: Node.js, React, DSA, or LLM-integrated web apps
+- 🔭 **Currently working on:** LLM & RAG-based applications, and multi-agent AI systems
+- 🌱 **Learning:** Workflow automation with n8n, and image generation with Stable Diffusion
+- 🤝 **Open to:** Full Stack / Frontend roles and collaboration on open-source projects
+- 💬 **Ask me about:** Node.js, React, DSA, LLM-integrated web apps, or RAG pipelines
 
 ---
 
