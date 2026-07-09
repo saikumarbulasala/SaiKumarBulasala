@@ -42,21 +42,6 @@ Building high-availability systems with a focus on modular architecture and perf
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saikumarbulasala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarbulasala&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarbulasala&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-> ⚠️ Replace `saikumarbulasala` above with your exact GitHub **username** (not display name) for these cards to render correctly.
-
----
-
 ### 🏆 Competitive Programming
 
 <p align="left">
