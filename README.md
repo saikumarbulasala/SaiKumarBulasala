@@ -69,7 +69,7 @@ Building high-availability systems with a focus on modular architecture and perf
   <tr>
     <td width="50%">
       <h4>🔹 Sector9 E-Commerce</h4>
-      <p>A full-stack e-commerce platform covering product browsing, cart, and order flow. Add a line here on your specific role and one measurable outcome (e.g. "reduced page load time by X%", "handled Y concurrent users").</p>
+      <p>Sector 9 is a modern fashion e-commerce platform engineered to combine premium streetwear aesthetics with high-performance web architecture. Built using React.js, Tailwind CSS, and React Router DOM, the application delivers a fast, scalable, and responsive single-page shopping experience optimized for modern users.</p>
       <a href="https://github.com/saikumarbulasala/sector9-ecommerce">📂 Source Code</a>
     </td>
     <td width="50%">
