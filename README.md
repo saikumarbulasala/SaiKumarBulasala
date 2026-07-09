@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Bulasala</h1>
-<h3 align="center">Full Stack Engineer | Frontend Specialist | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;Frontend+Specialist;Problem+Solver;Building+Intelligent+Systems&font=Fira+Code&center=true&width=440&height=45&duration=3000&pause=1000&color=2E86DE&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building high-availability systems with a focus on modular architecture and performance optimization.
@@ -59,21 +62,44 @@ Building high-availability systems with a focus on modular architecture and perf
   </a>
 </p>
 
-<p align="left">
-  <img src="https://leetcode-stats-two-blush.vercel.app/api?username=saikumarb_09" alt="LeetCode Stats" />
-</p>
+---
 
-> This stats widget depends on a third-party API that can go down; if it doesn't render, a static badge (as above) is a safe fallback.
+### 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔹 Project Name One</h4>
+      <p>One or two lines on the problem it solves, your role, and the measurable outcome (e.g. "cut API response time by 40%").</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Project Name Two</h4>
+      <p>Same format: problem → your role → quantified result. Recruiters skim this table first — lead with impact, not tech list.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source</a>
+    </td>
+  </tr>
+</table>
+
+> Replace the two placeholders above with your strongest 2–4 projects. Each one should read: **what it does → your specific contribution → a number** (users served, latency reduced, test coverage, etc.).
 
 ---
 
-### 🐍 Contribution Graph
+### 🎯 Currently
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saikumarbulasala/saikumarbulasala/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> This snake animation requires a one-time GitHub Actions setup in your profile repo — see setup note below.
+- 🔭 Working on: *(name your current project)*
+- 🌱 Learning: *(a specific technology, e.g. system design, Kubernetes)*
+- 🤝 Open to: Full Stack / Frontend roles and collaboration on open-source projects
+- 💬 Ask me about: Node.js, React, DSA, or LLM-integrated web apps
 
 ---
 
