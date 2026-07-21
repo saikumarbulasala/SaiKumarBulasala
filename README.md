@@ -40,7 +40,11 @@ Building high-availability systems with a focus on modular architecture and perf
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
 </p>
 
 ---
