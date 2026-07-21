@@ -44,7 +44,7 @@ Building high-availability systems with a focus on modular architecture and perf
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" />
 </p>
 
 ---
