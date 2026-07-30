@@ -51,7 +51,6 @@ Building high-availability systems with a focus on modular architecture and perf
 </p>
 
 ---
-
 ### 🏆 Competitive Programming
 
 <p align="left">
@@ -64,14 +63,7 @@ Building high-availability systems with a focus on modular architecture and perf
   <a href="https://codeforces.com/profile/saikumar09">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/saikumar09">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/saikumarbulasal1">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-  </a>
 </p>
-
 ---
 
 ### 💼 Featured Projects
