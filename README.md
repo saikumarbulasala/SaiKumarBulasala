@@ -64,6 +64,7 @@ Building high-availability systems with a focus on modular architecture and perf
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### 💼 Featured Projects
