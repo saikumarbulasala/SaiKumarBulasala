@@ -40,66 +40,13 @@ Building high-availability systems with a focus on modular architecture and perf
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474 184" width="474" height="184">
-
-  <!-- Row 1 -->
-  <image x="10"  y="10" width="48" height="48" href="https://skillicons.dev/icons?i=c">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.00s" repeatCount="indefinite"/>
-  </image>
-  <image x="68"  y="10" width="48" height="48" href="https://skillicons.dev/icons?i=cpp">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.15s" repeatCount="indefinite"/>
-  </image>
-  <image x="126" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=java">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.30s" repeatCount="indefinite"/>
-  </image>
-  <image x="184" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=py">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.45s" repeatCount="indefinite"/>
-  </image>
-  <image x="242" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=js">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.60s" repeatCount="indefinite"/>
-  </image>
-  <image x="300" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=html">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.75s" repeatCount="indefinite"/>
-  </image>
-  <image x="358" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=css">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="0.90s" repeatCount="indefinite"/>
-  </image>
-  <image x="416" y="10" width="48" height="48" href="https://skillicons.dev/icons?i=react">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.05s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- Row 2 -->
-  <image x="10"  y="68" width="48" height="48" href="https://skillicons.dev/icons?i=nextjs">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.20s" repeatCount="indefinite"/>
-  </image>
-  <image x="68"  y="68" width="48" height="48" href="https://skillicons.dev/icons?i=nodejs">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.35s" repeatCount="indefinite"/>
-  </image>
-  <image x="126" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=express">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.50s" repeatCount="indefinite"/>
-  </image>
-  <image x="184" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=mongodb">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.65s" repeatCount="indefinite"/>
-  </image>
-  <image x="242" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=git">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.80s" repeatCount="indefinite"/>
-  </image>
-  <image x="300" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=github">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="1.95s" repeatCount="indefinite"/>
-  </image>
-  <image x="358" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=vscode">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="2.10s" repeatCount="indefinite"/>
-  </image>
-  <image x="416" y="68" width="48" height="48" href="https://skillicons.dev/icons?i=postman">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="2.25s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- Row 3 -->
-  <image x="10"  y="126" width="48" height="48" href="https://go-skill-icons.vercel.app/api/icons?i=gradio">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="2.4s" begin="2.40s" repeatCount="indefinite"/>
-  </image>
-
-</svg>
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
+</p>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" />
+</p>
 
 ---
 ### 🏆 Competitive Programming
