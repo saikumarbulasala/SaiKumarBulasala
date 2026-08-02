@@ -49,6 +49,7 @@ Building high-availability systems with a focus on modular architecture and perf
 </p>
 
 ---
+
 ### 🏆 Competitive Programming
 <p align="left">
   <a href="https://leetcode.com/u/saikumarb_09/">
