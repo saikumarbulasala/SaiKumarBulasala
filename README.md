@@ -100,6 +100,7 @@ Building high-availability systems with a focus on modular architecture and perf
   </image>
 
 </svg>
+
 ---
 ### 🏆 Competitive Programming
 
