@@ -39,17 +39,10 @@ Building high-availability systems with a focus on modular architecture and perf
 - **Emerging Tech** — Integrating **LLMs** and AI-driven logic into traditional web stacks to build intelligent systems.
 
 ---
-
 ### 🛠️ Tech Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,nodejs,express,mongodb,git,github,vscode,postman&perline=8" />
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/tech-stack-animated.svg" />
 </p>
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" />
-</p>
-
 ---
 ### 🏆 Competitive Programming
 
