@@ -53,7 +53,7 @@ Building high-availability systems with a focus on modular architecture and perf
 ### 🏆 Competitive Programming
 <p align="left">
   <a href="https://leetcode.com/u/saikumarb_09/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/saikumarb09">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" />
